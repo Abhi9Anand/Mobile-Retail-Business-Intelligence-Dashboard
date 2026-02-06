@@ -230,6 +230,8 @@ The dashboard supports data-driven decision-making and enhances operational effi
 - 🔐 Apply Row-Level Security (RLS)  
 - ⚙️ Automate data pipeline using Snowpipe  
 - 🔄 Enable incremental data refresh  
-- ⚡ Deploy near real-time dashboard version  
-
-
+- ⚡ Deploy near real-time dashboard version
+## 📸 Dashboard Snapshot  
+<p align="center">
+<img width="1376" height="776" alt="Image" src="https://github.com/user-attachments/assets/08b3c8d0-0208-4359-8f9a-22a662b3a3f4" />
+<p/>
